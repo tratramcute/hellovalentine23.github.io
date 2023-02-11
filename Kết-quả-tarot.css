@@ -1,0 +1,68 @@
+.u-block-d8a5-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-d8a5-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-d8a5-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/Websitetrninthoi8.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 813px;
+}
+
+.u-section-1-1 .u-image-1 {
+  width: 170px;
+  height: 247px;
+  margin: 89px auto 0;
+}
+
+.u-section-1-1 .u-image-2 {
+  width: 170px;
+  height: 233px;
+  margin: 27px auto 0 83px;
+}
+
+.u-section-1-1 .u-image-3 {
+  width: 170px;
+  height: 243px;
+  margin: 505px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 811px;
+  }
+
+  .u-section-1-1 .u-image-1 {
+    width: 159px;
+    height: 232px;
+    margin-left: 85px;
+  }
+
+  .u-section-1-1 .u-image-2 {
+    width: 165px;
+    height: 232px;
+    margin-top: 1px;
+    margin-left: 79px;
+  }
+
+  .u-section-1-1 .u-image-3 {
+    width: 159px;
+    height: 228px;
+    margin-top: 5px;
+    margin-bottom: 24px;
+    margin-left: 84px;
+  }
+}
